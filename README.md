@@ -1,5 +1,5 @@
 # Actividad---Aplicaciones-de-escritorio-en-Electron
-## Instrucciones:
+### Instrucciones:
 Con base en el recurso/tutorial de Electron publicado en plataforma Youtube "Electron Curso: 1 Bienvenidos al Curso de Creación de Aplicaciones Multiplataforma con Electron".
 
 ### ¿Qué es electron?
